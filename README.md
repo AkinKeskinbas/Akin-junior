@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akın</h1>
 
-- 🌱 I’m currently learning **Android(Kotlin) , React Native(Js)**
-- 💬 Ask me about **Android(Java)**
+- 🌱 I’m currently learning **Android(Jetpack Compose) , React Native(Js)**
+- 💬 Ask me about **Android(Kotlin-Jetpack Compose)**
 - 📫 How to reach me **keskinbas13@gmail.com**
 - 🎸 I'm interested in AI🎶
 
