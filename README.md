@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/akinkeskinbas/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="hasanozdemir" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/akinkeskinbas/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="akinkeskinbas" height="30" width="30" /></a>
 <a href="https://medium.com/@keskinbas13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@keskinbas13" height="30" width="30" /></a>
 </p>
 
