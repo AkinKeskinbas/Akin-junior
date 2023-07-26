@@ -36,13 +36,21 @@
 </div>
 
 <h3 align="left">My Apps:</h3>
-<div>
+<div
   <img src="https://github.com/farimarwat/Profile-Image-Maker/assets/58655582/d04070ce-288b-4b73-8cef-2c58f5a09419" width="200" height="300" />
     <img src="https://github.com/farimarwat/Profile-Image-Maker/assets/58655582/6cc12394-bfd3-4952-941d-365d938d7617" width="200" height="300" />
-      <img src="https://github.com/farimarwat/Profile-Image-Maker/assets/58655582/225eb260-5f74-4357-ad8f-a414e69c85dc" width="200" height="300" />
         <img src="https://github.com/farimarwat/Profile-Image-Maker/assets/58655582/f636f52b-9866-4cfe-8ff3-66524aea4751" width="200" height="300" />
           <img src="https://github.com/farimarwat/Profile-Image-Maker/assets/58655582/7e8e30f7-3f70-447e-876d-60b2529aeb45" width="200" height="300" />
-            <img src="https://github.com/farimarwat/Profile-Image-Maker/assets/58655582/5ae0f814-d232-488a-827a-8cee8efb162e" width="200" height="300" />
+</div>
 
+<div>
+  <img src="https://github.com/farimarwat/Profile-Image-Maker/assets/58655582/31a2b63f-3b68-48b9-b2ba-2ef64ca7544f" width="200" height="300" />
+   <img src="https://github.com/farimarwat/Profile-Image-Maker/assets/58655582/4044a344-4228-4a55-b8b7-91d9f99f72f4" width="200" height="300" />
+  <img src="https://github.com/farimarwat/Profile-Image-Maker/assets/58655582/fd048dd8-4a24-43ea-b9fc-6646f118938b" width="200" height="300" />
+    <img src="https://github.com/farimarwat/Profile-Image-Maker/assets/58655582/71fcbe15-6c1d-48af-8cd8-2950d41ea4f7" width="200" height="300" />
+   <img src="https://github.com/farimarwat/Profile-Image-Maker/assets/58655582/b2175fd7-83fa-44f3-8bc7-5c6c727727b2" width="200" height="300" />
+  <img src="https://github.com/farimarwat/Profile-Image-Maker/assets/58655582/ee296fa6-1478-4d68-a6d6-b61e06a27b7d" width="200" height="300" />
+   <img src="https://github.com/farimarwat/Profile-Image-Maker/assets/58655582/017484ba-912e-49e8-ac28-59d202bc72b6" width="200" height="300" />
+  <img src="https://github.com/farimarwat/Profile-Image-Maker/assets/58655582/3ea5c267-ed50-4a53-b563-9d3e0b9d7fd2" width="200" height="300" />
 </div>
 
